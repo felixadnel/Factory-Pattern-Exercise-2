@@ -26,7 +26,7 @@
                     Thread.Sleep(1000);
 
                 }
-            } while (correctInput); ;
+            } while (!correctInput); 
 
             Console.Clear();
 
